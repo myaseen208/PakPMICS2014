@@ -1,4 +1,4 @@
-# Changes in PakPC2017 Version 0.1.0
+# Changes in PakPMICS2014 Version 0.1.0
 ## New Features 
 
-* First version of PakPC2017: 
+* First version of PakPMICS2014: 
