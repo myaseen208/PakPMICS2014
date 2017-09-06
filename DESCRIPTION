@@ -1,21 +1,18 @@
 Package: PakPMICS2014
 Type: Package
-Title: Pakistan Population Census 2017
+Title: Multiple Indicator Cluster Survey 2014 Punjab, Pakistan
 Version: 0.1.0
 Authors@R: c(
               person(c("Muhammad", "Yaseen"),  email = "myaseen208@gmail.com", role = c("aut", "cre"))
             , person(c("Muhammad", "Usman"),  email = "usmann75@hotmail.com", role = "ctb")
             )
 Maintainer: Muhammad Yaseen <myaseen208@gmail.com>
-Description: Provides data sets and functions for exploration of Pakistan Population Census 2017.
+Description: Provides data sets and functions for exploration of Multiple Indicator Cluster Survey (MICS) 2014 Punjab, Pakistan.
 Depends: R (>= 3.1)
 Imports: 
   data.table,
   stats
 License: GPL-2
-URL: https://github.com/MYaseen208/PakPC2017
+URL: https://github.com/MYaseen208/PakPMICS2014
 LazyData: TRUE
 RoxygenNote: 6.0.1
-Suggests: 
-    R.rsp
-VignetteBuilder: R.rsp
